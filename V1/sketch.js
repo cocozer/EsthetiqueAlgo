@@ -15,7 +15,7 @@ function getAverage(left, top) {
   
 }
 function setup() {
-  createCanvas(5000, 5000);
+  createCanvas(300, 300);
   
   let count = 0;
   let densites = [0]; // tableau des densités

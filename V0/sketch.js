@@ -3,7 +3,7 @@ function getRandomInt(max) {
 }
 
 function setup() {
-  createCanvas(5000, 5000);
+  createCanvas(300, 300);
   for(a=0; a<16; a++) {
     for(b=0; b<16; b++) {
       quelleDensite = getRandomInt(4);
